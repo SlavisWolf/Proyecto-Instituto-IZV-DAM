@@ -1,0 +1,354 @@
+@import url(inc/css/bootstrap.min.css);
+@import url(inc/css/chocolat.css);
+@import url(inc/css/font-awesome.min.css);
+@import url(inc/css/owl.carousel.css);
+@import url(inc/css/school-template.css);
+
+@font-face {
+    font-family: 'questa_sansregular';
+    src: url('inc/misFuentes/2-Questa_Sans_Regular-webfont.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'sans-pro';
+    src: url('inc/misFuentes/SourceSansPro-Light.otf');
+}
+
+h1,h2,h3,h4,h5,h6 {
+   font-family : questa_sansregular !important ;
+}
+
+p {
+  font-family : sans-pro !important ;
+  font-size : 1.2em;
+}
+
+hr {
+  border-color: gray;
+}
+
+li {
+  font-family : sans-pro !important ;
+  font-size : 1.1em;
+}
+
+a {
+  font-family : sans-pro ;
+}
+
+
+
+/*.conestilo{
+    clear:both;
+    display:block;
+    height: 20px;
+    background :url('inc/images/ninos.png') repeat center;
+    border:none;
+  }*/
+  
+  .hrnoticias{
+    clear:both;
+    display:block;
+    height: 25px;
+    background :url('inc/images/hrnews.png') repeat center;
+    border:none;
+  }
+  
+.postsIndex hr {
+  clear:both;
+  display:block;
+  border-color: black;
+}
+
+.imagenesUltimasNoticias {
+    
+  width: 95%;
+  height: 300px;
+}
+
+
+.lastNews {
+  padding-bottom: 10px;
+}
+
+.bottomPadding {
+  padding-bottom: 10px;
+}
+.lastNews span {
+  color:  #6a67ce;
+}
+
+.titulosPosts {
+  color: #6a67ce;
+}
+
+.titulosNosotros {
+  color: #6a67ce;
+}
+
+a {
+  color: #6a67ce;
+}
+
+a:hover {
+  color: #A9A7CE;
+}
+a:visited {
+  color: #6a67ce;
+}
+
+
+.cabeceraPagina {
+    height: 450px;
+    width: 100%;
+    margin: 0 auto 20px  auto;
+    background-repeat: no-repeat;
+    background-position: center center; /*Centra la foto dentro del contenedor*/
+    background-size: cover; /*La imagen ocupara toda la foto*/
+    overflow: hidden; /*Lo que se salga del contenedor no lo muestra*/
+}
+
+.cabeceraPagina h1 {
+    text-align: center;
+    color: white;
+    text-shadow: 1px 1px 2px gray;
+    line-height: 400px;
+}
+
+.post-categories {
+  list-style: none;
+}
+
+.post-categories li {
+  display: inline;
+  background-color: #6a67ce;
+  border-radius: 20px;
+  font-size: 0.85em;
+  padding: 6px 15px;
+}
+
+.post-categories li a {
+  color: white;
+}
+
+.autorPost {
+  color: chocolate;
+}
+
+.searchResult {
+  text-decoration: underline;
+}
+
+.post div {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.imagenPost {
+  width: 70%;
+  height: auto;
+}
+
+.listaSideBar {
+  list-style: none;
+}
+
+.listaSideBar a   {
+   color: chocolate;
+}
+
+.listaSideBar a:hover:before   {
+  color: goldenrod;
+}
+
+
+.listaSideBar a:hover   {
+   color: darksalmon;
+}
+
+.listaSideBar a:before   {
+  font-family: "FontAwesome", sans-serif;
+  content: "\f0c1   "
+}
+
+.bottomMargin {
+  margin-bottom: 20px;
+}
+
+
+.topMargin {
+  margin-bottom: 20px;
+}
+
+.sidebarIndex h3 {
+  margin-bottom: 15px;
+}
+.search-submit {
+   font-family: FontAwesome, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  border-radius : 35px;
+  border: 2px solid cornflowerblue;
+  background-color : #6a67ce;
+  width :35px;
+  height: 35px;
+  color: white;
+}
+
+.cabeceraSearch {
+    background-image: url(inc/images/cabeceraSearch.jpg);
+}
+
+
+.cabeceraActividades {
+    background-image: url(inc/images/actividadesCabecera.JPG);
+}
+
+.descripcion{
+ text-align: center;
+ font: bold;
+  
+}
+.postsIndex * {
+  margin-bottom: 10px;
+}
+
+
+.postsIndex h3 {
+  margin-bottom: 0px;
+}
+
+.headerArchive {
+    background-image: url(inc/images/headerArchive.jpg);
+}
+
+.archiveTipo {
+  color: darksalmon;
+  font-weight: bold;
+}
+
+.tituloComentarios {
+  color: darksalmon;
+  font-style: italic
+}
+
+.nav_previous {
+  font-style: italic
+}
+
+.widgettitle {
+  font-size: 1.74em;
+  
+}
+
+.nav_next {
+  font-style: italic
+}
+
+.bordesPrueba {
+  border: 1px solid black;
+}
+
+
+.fotoActividad {
+  width:100%;
+  height:auto;
+  max-height: 300px;
+}
+
+.caracteristicasExcursion {
+  margin-top : 70px;
+}
+
+.tituloActividad {
+   color: #6a67ce;
+   text-align : center;
+   padding-bottom : 12px;
+}
+
+.paginaActual {
+  text-decoration: underline;
+  color: #6a67ce;
+}
+
+.pagina {
+  color: chocolate;
+}
+
+.bordeImagenServicios {
+  border: 3px solid white;
+  padding: 25px 25px;
+}
+.actividad{ 
+background: rgba(255,255,255,1);
+background: -moz-radial-gradient(center, ellipse cover, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 32%, rgba(255,218,173,1) 81%, rgba(255,218,173,1) 100%);
+background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, rgba(255,255,255,1)), color-stop(32%, rgba(255,255,255,1)), color-stop(81%, rgba(255,218,173,1)), color-stop(100%, rgba(255,218,173,1)));
+background: -webkit-radial-gradient(center, ellipse cover, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 32%, rgba(255,218,173,1) 81%, rgba(255,218,173,1) 100%);
+background: -o-radial-gradient(center, ellipse cover, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 32%, rgba(255,218,173,1) 81%, rgba(255,218,173,1) 100%);
+background: -ms-radial-gradient(center, ellipse cover, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 32%, rgba(255,218,173,1) 81%, rgba(255,218,173,1) 100%);
+background: radial-gradient(ellipse at center, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 32%, rgba(255,218,173,1) 81%, rgba(255,218,173,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ffdaad', GradientType=1 );
+
+  border-radius: 30px;
+  box-shadow: 1px 2px 5px #d7d7d7;
+  border: 1px solid #e5e5e5;
+  overflow: hidden;
+  
+}
+
+/*ESTILOS COMENTARIOS*/
+/*Comment Output*/
+
+.comment-list .reply {}
+.comment-list .reply a {}
+
+.comment-list .alt {}
+.comment-list .odd {}
+.comment-list .even {}
+.comment-list .thread-alt {}
+.comment-list .thread-odd {}
+.comment-list .thread-even {}
+.comment-list li ul.children .alt {}
+.comment-list li ul.children .odd {}
+.comment-list li ul.children .even {}
+
+.comment-list .vcard {}
+.comment-list .vcard cite.fn {}
+.comment-list .vcard span.says {}
+.comment-list .vcard img.photo {}
+.comment-list .vcard img.avatar {}
+.comment-list .vcard cite.fn a.url {}
+
+.comment-list .comment-meta {} 
+.comment-list .comment-meta a {}
+.comment-list .commentmetadata {}
+.comment-list .commentmetadata a {}
+
+.comment-list .parent {}
+.comment-list .comment {}
+.comment-list .children {}
+.comment-list .pingback {}
+.comment-list .bypostauthor {}
+.comment-list .comment-author {}
+.comment-list .comment-author-admin {}
+
+.comment-list {
+     list-style: none;
+}
+.comment-list li {}
+.comment-list li p {}
+.comment-list li ul {}
+.comment-list li ul.children li {}
+.comment-list li ul.children li.alt {}
+.comment-list li ul.children li.byuser {}
+.comment-list li ul.children li.comment {}
+.comment-list li ul.children li.depth-{id} {}
+.comment-list li ul.children li.bypostauthor {}
+.comment-list li ul.children li.comment-author-admin {}
+
+#cancel-comment-reply {}
+#cancel-comment-reply a {}
+
+
+
+
+/*FIN COMENTARIOS*/

@@ -1,0 +1,295 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es_ES\n"
+
+
+#: TRADUCCION ESPAÑOL TEMA mi_school
+ 
+#: nav
+msgid "Services"
+msgstr "Servicios"
+
+msgid "News"
+msgstr "Noticias"
+
+msgid "Gallery"
+msgstr "Galería"
+
+msgid "Contact Us"
+msgstr "Contacta"
+
+msgid "Activities"
+msgstr "Actividades"
+
+#: Front-Page
+
+msgid "Last <span>News</span>"
+msgstr "Últimas <span>Noticias</span>"
+
+msgid "Our <span>Team</span>"
+msgstr "Nuestro <span>Equipo</span>"
+
+msgid "By "
+msgstr "Publicado por "
+
+msgid "More"
+msgstr "Leer Más"
+
+
+
+msgid "No comments"
+msgstr "Sin comentarios"
+
+msgid "1 comments"
+msgstr "1 comentario"
+
+msgid "% comments"
+msgstr "% comentarios"
+
+msgid "Questions are the beginning of wisdom."
+msgstr "La duda es el principio de la sabiduria."
+
+msgid "Education is the vaccine of violence."
+msgstr "La educación es la vacuna de la violencia."
+
+msgid "Education is the key to opening the golden door to freedom."
+msgstr "La educación es la llave para abrir la puerta de oro de la libertad."
+
+msgid "Learning keeps our mind young."
+msgstr "Aprender mantiene joven nuestra mente."
+
+msgid "Educational project"
+msgstr "Proyecto Educativo"
+
+msgid "The IES Zaidín-Vergeles Educational Project is an instrument for multi-year planning that lists and defines the identity notes of our center. It has a sense of globality, since it contemplates formative aspects, of coexistence, of organization, and of government."
+
+msgstr "El Proyecto Educativo del IES Zaidín‐Vergeles es un instrumento para la planificación plurianual que enumera y define las notas de identidad de nuestro centro. Posee un sentido de globalidad, ya que contempla aspectos formativos, de convivencia, de organización, y de gobierno."
+
+				
+msgid "Courses taught"
+msgstr "Niveles Impartidos"
+
+msgid "IES Zaidín-Vergeles is a Quality Center with AENOR and academic certification and has An educational offer with a wide variety of educational levels, including secondary teaching Compulsory in full, Baccalaureate, various cycles of Vocational Training Of five different professional families: Administration and Finance, Commerce and Marketing, Communications, Installation and Maintenance, Chemistry and Adults of Baccalaureate and ESPA."
+
+msgstr "El IES Zaidín Vergeles es un Centro Calidad con certificación AENOR y academia y tiene una oferta educativa con gran variedad de niveles educativos entre los cuales se incluyen la Enseñanza Secundaria Obligatoria al completo, Bachillerato, diversos ciclos de Formación Profesional de cinco familias profesionales diferentes: Administración y Finanzas, Comercio y Marketing, Informática y Comunicaciones, Instalación y Mantenimiento y la de Química y enseñanzas para adultos de Bachillerato y ESPA."
+				
+		
+
+
+#: Servicios
+
+
+
+msgid "Morning and afternoon"
+msgstr "Mañana y tarde"
+
+
+msgid "Library"
+msgstr "Biblioteca"
+
+msgid "Bilingual Teachers"
+msgstr "Profesores Bilingües"
+
+msgid "Extensive Facilities"
+msgstr "Extensas Instalaciones"
+
+msgid "Latest Technologies"
+msgstr "Últimas Tecnologías"
+
+
+#: About us
+
+msgid "We are a public center and our goal is to achieve and ensure the quality of the service we provide to society. We are passionate about our work and equality, solidarity and freedom are some of the axes of our Educational Project."
+msgstr "Somos un centro público y nuestro objetivo es conseguir y asegurar la calidad del servicio que prestamos a la sociedad. Nos apasiona nuestro trabajo y la igualdad, la solidaridad y la libertad son algunos de los ejes de nuestro Proyecto Educativo."
+
+msgid "A permanent challenge for us is to improve our teaching-learning process as we aim to provide a quality service."
+msgstr "Un reto permanente para nosotros es mejorar nuestro proceso de enseñanza-aprendizaje pues pretendemos dar un servicio de calidad."
+
+msgid "About <span>us</span>"
+msgstr "Sobre <span>nosotros</span>"
+
+msgid "Through our Educational Project we intend to define the identity of the Center as a result of participatory dialogue and consensus"
+msgstr "A través de nuestro  Proyecto Educativo pretendemos definir la identidad del Centro como fruto del diálogo participativo y del consenso."				
+
+msgid "Awesome Education"
+msgstr "Increible educacion"
+
+
+msgid "Awesome classes"
+msgstr "Increibles clases"
+
+
+msgid "Awesome Teachings"
+msgstr "Increibles docentes"
+
+
+msgid "The reception of students and new teachers, the role of tutoring, cultural activities, training in work centers ... are some of the aspects in which we are placing a very special emphasis."
+msgstr "La acogida del alumnado y del nuevo profesorado, el papel de la tutorías, las actividades culturales, la formación en centros de trabajo,... son algunos de los aspectos en los que estamos poniendo un énfasis muy especial."
+
+
+msgid "Contact with us"
+msgstr "Contacta con nosotros"
+
+#: Galeria
+
+
+
+msgid "Education is not a problem. Education is an opportunity."
+msgstr "La educación no es un problema, es una oportunidad"
+
+
+msgid "The only person who is educated is the one who has learned how to learn and change."
+msgstr "La única persona que esta educada es la que ha aprendido cómo aprender y cambiar."
+
+msgid "The admission of ignorance is often the first step in our education"
+msgstr "La admisión de la ignorancia es a menudo el primer paso en nuestra educación."
+
+
+msgid "Education is the ability to listen to almost anything without losing your calm or self-esteem."
+msgstr "La educación es la habilidad de escuchar casi cualquier cosa sin perder tu calma o tu autoestima."
+
+
+msgid "Teaching is learn two times."
+msgstr "Enseñar es aprender dos veces."
+
+msgid "Learning is never done without errors and defeat."
+msgstr "El aprendizaje nunca se hace sin errores y derrota."
+
+msgid "The goal of education is to prepare young people to educate themselves for the future."
+msgstr "El objetivo de la educación es preparar a los jóvenes a educarse a ellos mismos para el futuro."
+
+
+#: Opiniones
+
+msgid "Testimonials"
+msgstr "Opiniones"
+
+msgid "I love this highschool! I met a lot of people, and they did very interesting activities, they also prepared me very well for the university and I got to enter the career of my dreams!"
+msgstr "Me encanta este instituto! conoci un monton de gente, y hacian actividades muy interesantes, ademas me prepararon muy bien para la universidad y consegui entrar en la carrera de mis sueños!"
+
+
+msgid "Good facilities, I loved that there were computers in the classrooms, I got access to the information very easily, it helped a lot to learn to get the beans"
+msgstr "Buenas instalaciones,me encantaba que hubiera ordenadores en las aulas, se conseguia el acceso a la información de forma muy fácil, ayudaba mucho para aprender a buscarse las habichuelas"
+
+msgid "Great this highschool! I prepare myself the degree of Multiplatform Application Developer, and I am currently working in one of the most important companies of grenade."
+msgstr "Genial este instituto! me prepare el grado de Desarrollador de aplicaciones multiplataforma, y actualmente estoy trabajando en una de las empresas más importantes de granada."
+
+
+#: Index
+
+
+msgid "There are not more posts"
+msgstr "No hay mas posts"
+
+msgid "There are not posts"
+msgstr "No hay posts"
+
+#: SideBar
+
+msgid "Search"
+msgstr "Buscar"
+
+msgid "Search News"
+msgstr "Buscar Noticias"
+
+msgid "Last Entries"
+msgstr "Últimas Entradas"
+
+msgid "Categories"
+msgstr "Categorías"
+
+msgid "You have not widgets to this theme"
+msgstr "No tienes widgets disponibles para este tema"
+
+#: Search.php
+
+msgid " Posts Found"
+msgstr " Noticias Encontradas"
+
+msgid " Post Found"
+msgstr " Noticia Encontrada"
+
+msgid "No Posts Found"
+msgstr "Ninguna Noticia Encontrada"
+
+msgid "Search results for %s"
+msgstr "Resultados encontrados para %s"
+
+msgid "Posts by category: %s"
+msgstr "Noticias por categoría: %s"
+
+msgid "Posts by tag:  %s"
+msgstr "Noticias por etiqueta: %s"
+
+#: Comentarios
+
+msgid " comments"
+msgstr " comentarios"
+
+msgid "Comments of "
+msgstr "Comentarios de "
+
+msgid "Recent comments"
+msgstr "Comentarios más nuevos"
+
+msgid "Older comments"
+msgstr "Comentarios antiguos"
+
+msgid "Comments are closed"
+msgstr "Los comentarios están desactivados"
+
+#: Actividades
+
+
+msgid "Page"
+msgstr "Página"
+
+msgid "Before"
+msgstr "Anterior"
+
+msgid "Next"
+msgstr "Siguiente"
+
+#: Form
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "Message"
+msgstr "Mensaje"
+
+msgid "Contact <span>Us</span>"
+msgstr "Contacta  con<span> nosotros</span>"
+
+
+
+#: Footer
+
+msgid "About us"
+msgstr "Sobre nosotros"
+
+msgid "Address" 
+msgstr "Dirección"
+
+msgid "Phone Number" 
+msgstr "Teléfono"
+
+msgid "Contact" 
+msgstr "Contacto"
+
+
+msgid "Submit" 
+msgstr "Enviar"
+
+
+
